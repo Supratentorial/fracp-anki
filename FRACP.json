@@ -108,7 +108,7 @@
             ], 
             "tmpls": [
                 {
-                    "afmt": "<div class=\"card-container\">\n<div class=\"letter\">Q.</div>\n{{Question}}\n</div>\n\n<div class=\"card-container\">\n<div class=\"letter\">A.</div>\n{{Answer}}\n</div>\n\n<div class=\"card-container references\">\n{{Tags}}\n{{Reference}}\n</div>\n", 
+                    "afmt": "<div class=\"card-container\">\n<div class=\"letter\">Q.</div>\n{{Question}}\n</div>\n\n<div class=\"card-container\">\n<div class=\"letter\">A.</div>\n{{Answer}}\n</div>\n\n<div class=\"card-container references\">\n<div>{{Tags}}</div>\n<div>{{Reference}}</div>\n</div>\n", 
                     "bafmt": "", 
                     "bfont": "Arial", 
                     "bqfmt": "", 
@@ -143,9 +143,9 @@
             "__type__": "Note", 
             "data": "", 
             "fields": [
-                "The COURAGE trial compared PCI + medical therapy vs. medical therapy alone as an initial management strategy in patients with stable angina. What was the main conclusion of this trial?", 
+                "The COURAGE trial compared PCI + medical therapy vs. medical therapy alone as an initial management strategy in patients with stable ischaemic heart disease. What was the main conclusion of this trial?", 
                 "Although the addition of PCI to optimal medical therapy reduced the prevalence of angina, it did not reduce long-term rates of death, nonfatal myocardial infarction, and hospitalization for acute coronary syndromes.", 
-                "http://www.nejm.org/doi/full/10.1056/NEJMoa070829#t=article"
+                "https://www.ncbi.nlm.nih.gov/pubmed/17387127"
             ], 
             "flags": 0, 
             "guid": "s(&yGZmQc@", 
@@ -205,8 +205,8 @@
             "data": "", 
             "fields": [
                 "The CURE trial tested the efficacy of prolonged aspirin + clopidogrel compared to aspirin alone in ACS without STEMI. What were the key findings?", 
-                "<ul><li>Dual antiplatelet therapy was superior to aspirin alone</li><li>20% reduction in nonfatal MI, stroke and cardiovascular death</li><li>18% reduction in evidence of heart failure</li><li>Superiority persisted throughout the 12 month study</li><li>Higher rates of major and minor bleeding, but no increase in life-threatening bleeding or intracranial haemorrhage</li></ul>", 
-                ""
+                "<ul><li>Dual antiplatelet therapy with clopidogrel and aspirin reduced cardiovascular mortality, non-fatal myocardial infarction or stroke</li><li>Superiority persisted throughout the 12 month study</li><li>Higher rates of major and minor bleeding, but no increase in life-threatening bleeding or intracranial haemorrhage</li></ul>", 
+                "https://www.ncbi.nlm.nih.gov/pubmed/11519503"
             ], 
             "flags": 0, 
             "guid": "kTU/W:~zaZ", 
@@ -266,7 +266,7 @@
             "data": "", 
             "fields": [
                 "Describe the mechanism of action of ticagrelor.", 
-                "Ticagrelor <b>reversibly</b> inhibits the adenosine diphosphate (ADP) receptor P2Y<sub>12</sub> ;the thienopyridines (clopidogrel, prasugrel) irreversibly inhibit P2Y<sub>12</sub>.", 
+                "Ticagrelor, a nuceloside analogue,&nbsp;<b>reversibly</b> inhibits the adenosine diphosphate (ADP) receptor P2Y<sub>12</sub>. The thienopyridines (clopidogrel, prasugrel) irreversibly inhibit P2Y<sub>12</sub>.", 
                 ""
             ], 
             "flags": 0, 
@@ -281,12 +281,73 @@
             "__type__": "Note", 
             "data": "", 
             "fields": [
-                "The PLATO trial compared ticagrelor and clopidogrel (with both groups receiving aspirin) in patients with acute coronary syndrome, with or without ST-segment elevation. What were the findings of this study?", 
-                "", 
-                ""
+                "The PLATO trial compared ticagrelor and clopidogrel in patients with acute coronary syndrome. What were the findings of this study?", 
+                "<ul><li>Compared to clopidogrel, ticagrelor significantly reduced the rate of cardiovascular death, myocardial infarction, or stroke</li><li>Benefit &nbsp;persisted up to 12 months</li><li>No increase in overall major bleeding</li></ul>", 
+                "https://www.ncbi.nlm.nih.gov/pubmed/19717846"
             ], 
             "flags": 0, 
             "guid": "J/Y5?d9ATR", 
+            "note_model_uuid": "0aecb5c4-d637-11e7-8e91-408d5c5c9416", 
+            "tags": [
+                "Cardiology"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Name &nbsp;indications for coronary angiography in patients with stable ischaemic heart disease (SIHD).", 
+                "<ul style=\"margin-left: 20px; \"><li>Angina that significantly interferes with a patient's lifestyle despite maximal tolerable medical therapy</li><li>Patients with high-risk criteria (survivors of cardiac arrest</li></ul>", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "ql~u/+/uOx", 
+            "note_model_uuid": "0aecb5c4-d637-11e7-8e91-408d5c5c9416", 
+            "tags": [
+                "Cardiology"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Name the preferred first line antianginal for patients with stable ischaemic heart disease (SIHD).", 
+                "ß-blocker", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "s~}U_}vu6{", 
+            "note_model_uuid": "0aecb5c4-d637-11e7-8e91-408d5c5c9416", 
+            "tags": [
+                "Cardiology"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Name 3 factors which contribute to myocardial oxygen demand.", 
+                "<ul><li>Heart rate</li><li>Contractility</li><li>Left ventricular wall stress</li></ul>", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "L]4|DkxOFh", 
+            "note_model_uuid": "0aecb5c4-d637-11e7-8e91-408d5c5c9416", 
+            "tags": [
+                "Cardiology", 
+                "Physiology"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Describe the mechanism by which sudden withdrawal of ß-blocker therapy may precipitate exacerbation of ischaemic symptoms, including myocardial infarction.", 
+                "Chronic use of ß-blocker therapy results in upregulation of adrenergic receptor density, and consequent increase in responsiveness to circulating catecholamines.", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "Es2n>Rl*<`", 
             "note_model_uuid": "0aecb5c4-d637-11e7-8e91-408d5c5c9416", 
             "tags": [
                 "Cardiology", 
