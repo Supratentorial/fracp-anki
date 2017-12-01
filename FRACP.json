@@ -1,0 +1,297 @@
+{
+    "__type__": "Deck", 
+    "children": [], 
+    "crowdanki_uuid": "0aecb5c0-d637-11e7-8582-408d5c5c9416", 
+    "deck_config_uuid": "0aecb5c1-d637-11e7-b61d-408d5c5c9416", 
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig", 
+            "autoplay": true, 
+            "crowdanki_uuid": "0aecb5c1-d637-11e7-b61d-408d5c5c9416", 
+            "dyn": false, 
+            "lapse": {
+                "delays": [
+                    10
+                ], 
+                "leechAction": 0, 
+                "leechFails": 8, 
+                "minInt": 1, 
+                "mult": 0
+            }, 
+            "maxTaken": 60, 
+            "name": "Default", 
+            "new": {
+                "bury": true, 
+                "delays": [
+                    1, 
+                    10
+                ], 
+                "initialFactor": 2500, 
+                "ints": [
+                    1, 
+                    4, 
+                    7
+                ], 
+                "order": 1, 
+                "perDay": 20, 
+                "separate": true
+            }, 
+            "replayq": true, 
+            "rev": {
+                "bury": true, 
+                "ease4": 1.3, 
+                "fuzz": 0.05, 
+                "ivlFct": 1, 
+                "maxIvl": 36500, 
+                "minSpace": 1, 
+                "perDay": 100
+            }, 
+            "timer": 0
+        }
+    ], 
+    "desc": "", 
+    "dyn": 0, 
+    "extendNew": 10, 
+    "extendRev": 50, 
+    "media_files": [], 
+    "name": "FRACP", 
+    "note_models": [
+        {
+            "__type__": "NoteModel", 
+            "crowdanki_uuid": "0aecb5c4-d637-11e7-8e91-408d5c5c9416", 
+            "css": ".card {\nfont-family: arial;\nfont-size: 16px;\nline-height: 1.4em;\ntext-align: left;\n color: #263238;\n background-color: #ECEFF1;\npadding: 20px;\n}\n\n.card-container{\nbackground-color: white;\npadding: 10px 15px 15px 15px;\nbox-shadow: 0 2px 2px 0 rgba(0,0,0,0.2);\nmargin-bottom: 20px;\nborder-radius: 2px;\n}\n\n.letter{\nfont-size: 20px;\ncolor:#37474F;\nmargin-bottom: 8px;\npadding-bottom: 8px;\nfont-family: Ebrima;\nborder-bottom: 1px solid #388E3C;\n}\n\nul{\n\tlist-style-position: inside;\n\tpadding-left: 0;\npadding-top: 0;\npadding-bottom: 0;\n}\n\n.references{\ncolor: #607D8B;\nfont-size: 14px;\n}", 
+            "flds": [
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Question", 
+                    "ord": 0, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Answer", 
+                    "ord": 1, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Reference", 
+                    "ord": 2, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": false
+                }
+            ], 
+            "latexPost": "\\end{document}", 
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n", 
+            "name": "FRACP Type", 
+            "req": [
+                [
+                    0, 
+                    "all", 
+                    [
+                        0
+                    ]
+                ]
+            ], 
+            "sortf": 0, 
+            "tags": [
+                "Cardiology", 
+                "Pharmacology"
+            ], 
+            "tmpls": [
+                {
+                    "afmt": "<div class=\"card-container\">\n<div class=\"letter\">Q.</div>\n{{Question}}\n</div>\n\n<div class=\"card-container\">\n<div class=\"letter\">A.</div>\n{{Answer}}\n</div>\n\n<div class=\"card-container references\">\n{{Tags}}\n{{Reference}}\n</div>\n", 
+                    "bafmt": "", 
+                    "bfont": "Arial", 
+                    "bqfmt": "", 
+                    "bsize": 12, 
+                    "did": null, 
+                    "name": "Card 1", 
+                    "ord": 0, 
+                    "qfmt": "<div class=\"card-container\">\n<div class=\"letter\">Q.</div>\n{{Question}}\n</div>"
+                }
+            ], 
+            "type": 0, 
+            "vers": []
+        }
+    ], 
+    "notes": [
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Name 4 antianginal medications used in the management of stable angina.", 
+                "<ul><li>ß-blockers</li><li>Nitrates</li><li>Calcium channel blockers</li><li>Ranolazine</li></ul>", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "qz7,uLA)8e", 
+            "note_model_uuid": "0aecb5c4-d637-11e7-8e91-408d5c5c9416", 
+            "tags": [
+                "Cardiology"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "The COURAGE trial compared PCI + medical therapy vs. medical therapy alone as an initial management strategy in patients with stable angina. What was the main conclusion of this trial?", 
+                "Although the addition of PCI to optimal medical therapy reduced the prevalence of angina, it did not reduce long-term rates of death, nonfatal myocardial infarction, and hospitalization for acute coronary syndromes.", 
+                "http://www.nejm.org/doi/full/10.1056/NEJMoa070829#t=article"
+            ], 
+            "flags": 0, 
+            "guid": "s(&yGZmQc@", 
+            "note_model_uuid": "0aecb5c4-d637-11e7-8e91-408d5c5c9416", 
+            "tags": [
+                "Cardiology"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Name the only antianginal drug class proven to prevent reinfarction and to improve survival in patients who have sustained a myocardial infarction.", 
+                "ß-blockers", 
+                "https://www.ncbi.nlm.nih.gov/pubmed?term=8371471"
+            ], 
+            "flags": 0, 
+            "guid": "kDEax2q{$r", 
+            "note_model_uuid": "0aecb5c4-d637-11e7-8e91-408d5c5c9416", 
+            "tags": [
+                "Cardiology"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Name an appropriate first line investigation for suspected stable ischaemic heart disease.", 
+                "Cardiac stress testing", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "qqa`li!;E]", 
+            "note_model_uuid": "0aecb5c4-d637-11e7-8e91-408d5c5c9416", 
+            "tags": [
+                "Cardiology"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Describe the mechanism of action of aspirin.", 
+                "Irreversible inhibition of cyclooxygenase and thereby inhibiting the formation of eicosanoids (thromboxane A<sub>2</sub>) via the oxygenation of arachidonic acid.", 
+                "https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/215618"
+            ], 
+            "flags": 0, 
+            "guid": "BF>b>hG[t]", 
+            "note_model_uuid": "0aecb5c4-d637-11e7-8e91-408d5c5c9416", 
+            "tags": [
+                "Cardiology", 
+                "Pharmacology"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "The CURE trial tested the efficacy of prolonged aspirin + clopidogrel compared to aspirin alone in ACS without STEMI. What were the key findings?", 
+                "<ul><li>Dual antiplatelet therapy was superior to aspirin alone</li><li>20% reduction in nonfatal MI, stroke and cardiovascular death</li><li>18% reduction in evidence of heart failure</li><li>Superiority persisted throughout the 12 month study</li><li>Higher rates of major and minor bleeding, but no increase in life-threatening bleeding or intracranial haemorrhage</li></ul>", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "kTU/W:~zaZ", 
+            "note_model_uuid": "0aecb5c4-d637-11e7-8e91-408d5c5c9416", 
+            "tags": [
+                "Cardiology"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "What is the recommended time frame in which a patient presenting with acute chest pain or suspected acute coronary syndrome should undergo an ECG?", 
+                "10 minutes", 
+                "National Heart Foundation of Australia &amp; Cardiac Society of Australia and New Zealand: Australian Clinical Guidelines for the Management of Acute Coronary Syndromes 2016"
+            ], 
+            "flags": 0, 
+            "guid": "zk:f):Lwzl", 
+            "note_model_uuid": "0aecb5c4-d637-11e7-8e91-408d5c5c9416", 
+            "tags": [
+                "Cardiology"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Name 7 contraindications to the use of nitrate therapy.", 
+                "<ul style=\"margin-left: 20px; \"><li>Allergy</li><li>Hypotension (&lt;90)</li><li>Bradycardia (&lt;50)</li><li>Tachycardia (&gt;100)</li><li>Phosphodiesterase inhibitor within the previous 24 hours</li><li>Hypertrophic cardiomyopathy</li><li>Severe aortic stenosis</li></ul>", 
+                "ACC/AHA Guidelines for the Management of Patients With ST-Elevation Myocardial Infarction"
+            ], 
+            "flags": 0, 
+            "guid": "iv0T$[op/3", 
+            "note_model_uuid": "0aecb5c4-d637-11e7-8e91-408d5c5c9416", 
+            "tags": [
+                "Cardiology"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Describe the mechanism of action of clopidogrel.", 
+                "The active metabolite of the thienopyridines (clopidogrel, prasugrel) irreversibly binds to the platelet P2Y<sub>12</sub>&nbsp;receptor and inhibits platelet aggregation for the life of the platelet.", 
+                "Australian Medicines Handbook"
+            ], 
+            "flags": 0, 
+            "guid": "qV]MexO7Dl", 
+            "note_model_uuid": "0aecb5c4-d637-11e7-8e91-408d5c5c9416", 
+            "tags": [
+                "Cardiology", 
+                "Pharmacology"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Describe the mechanism of action of ticagrelor.", 
+                "Ticagrelor <b>reversibly</b> inhibits the adenosine diphosphate (ADP) receptor P2Y<sub>12</sub> ;the thienopyridines (clopidogrel, prasugrel) irreversibly inhibit P2Y<sub>12</sub>.", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "wf$J875j)7", 
+            "note_model_uuid": "0aecb5c4-d637-11e7-8e91-408d5c5c9416", 
+            "tags": [
+                "Cardiology", 
+                "Pharmacology"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "The PLATO trial compared ticagrelor and clopidogrel (with both groups receiving aspirin) in patients with acute coronary syndrome, with or without ST-segment elevation. What were the findings of this study?", 
+                "", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "J/Y5?d9ATR", 
+            "note_model_uuid": "0aecb5c4-d637-11e7-8e91-408d5c5c9416", 
+            "tags": [
+                "Cardiology", 
+                "Pharmacology"
+            ]
+        }
+    ]
+}
