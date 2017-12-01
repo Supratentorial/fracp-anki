@@ -54,7 +54,7 @@
     "extendNew": 10, 
     "extendRev": 50, 
     "media_files": [], 
-    "mid": 1509325136147, 
+    "mid": "1512116153364", 
     "name": "fracp-anki", 
     "note_models": [
         {
@@ -104,8 +104,7 @@
             ], 
             "sortf": 0, 
             "tags": [
-                "Cardiology", 
-                "Pharmacology"
+                "Cardiology"
             ], 
             "tmpls": [
                 {
@@ -125,236 +124,6 @@
         }
     ], 
     "notes": [
-        {
-            "__type__": "Note", 
-            "data": "", 
-            "fields": [
-                "Name 4 antianginal medications used in the management of stable angina.", 
-                "<ul><li>ß-blockers</li><li>Nitrates</li><li>Calcium channel blockers</li><li>Ranolazine</li></ul>", 
-                ""
-            ], 
-            "flags": 0, 
-            "guid": "qz7,uLA)8e", 
-            "note_model_uuid": "0aecb5c4-d637-11e7-8e91-408d5c5c9416", 
-            "tags": [
-                "Cardiology"
-            ]
-        }, 
-        {
-            "__type__": "Note", 
-            "data": "", 
-            "fields": [
-                "The COURAGE trial compared PCI + medical therapy vs. medical therapy alone as an initial management strategy in patients with stable ischaemic heart disease. What was the main conclusion of this trial?", 
-                "Although the addition of PCI to optimal medical therapy reduced the prevalence of angina, it did not reduce long-term rates of death, nonfatal myocardial infarction, and hospitalization for acute coronary syndromes.", 
-                "https://www.ncbi.nlm.nih.gov/pubmed/17387127"
-            ], 
-            "flags": 0, 
-            "guid": "s(&yGZmQc@", 
-            "note_model_uuid": "0aecb5c4-d637-11e7-8e91-408d5c5c9416", 
-            "tags": [
-                "Cardiology"
-            ]
-        }, 
-        {
-            "__type__": "Note", 
-            "data": "", 
-            "fields": [
-                "Name the only antianginal drug class proven to prevent reinfarction and to improve survival in patients who have sustained a myocardial infarction.", 
-                "ß-blockers", 
-                "https://www.ncbi.nlm.nih.gov/pubmed?term=8371471"
-            ], 
-            "flags": 0, 
-            "guid": "kDEax2q{$r", 
-            "note_model_uuid": "0aecb5c4-d637-11e7-8e91-408d5c5c9416", 
-            "tags": [
-                "Cardiology"
-            ]
-        }, 
-        {
-            "__type__": "Note", 
-            "data": "", 
-            "fields": [
-                "Name an appropriate first line investigation for suspected stable ischaemic heart disease.", 
-                "Cardiac stress testing", 
-                ""
-            ], 
-            "flags": 0, 
-            "guid": "qqa`li!;E]", 
-            "note_model_uuid": "0aecb5c4-d637-11e7-8e91-408d5c5c9416", 
-            "tags": [
-                "Cardiology"
-            ]
-        }, 
-        {
-            "__type__": "Note", 
-            "data": "", 
-            "fields": [
-                "Describe the mechanism of action of aspirin.", 
-                "Irreversible inhibition of cyclooxygenase and thereby inhibiting the formation of eicosanoids (thromboxane A<sub>2</sub>) via the oxygenation of arachidonic acid.", 
-                "https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/215618"
-            ], 
-            "flags": 0, 
-            "guid": "BF>b>hG[t]", 
-            "note_model_uuid": "0aecb5c4-d637-11e7-8e91-408d5c5c9416", 
-            "tags": [
-                "Cardiology", 
-                "Pharmacology"
-            ]
-        }, 
-        {
-            "__type__": "Note", 
-            "data": "", 
-            "fields": [
-                "The CURE trial tested the efficacy of prolonged aspirin + clopidogrel compared to aspirin alone in ACS without STEMI. What were the key findings?", 
-                "<ul><li>Dual antiplatelet therapy with clopidogrel and aspirin reduced cardiovascular mortality, non-fatal myocardial infarction or stroke</li><li>Superiority persisted throughout the 12 month study</li><li>Higher rates of major and minor bleeding, but no increase in life-threatening bleeding or intracranial haemorrhage</li></ul>", 
-                "https://www.ncbi.nlm.nih.gov/pubmed/11519503"
-            ], 
-            "flags": 0, 
-            "guid": "kTU/W:~zaZ", 
-            "note_model_uuid": "0aecb5c4-d637-11e7-8e91-408d5c5c9416", 
-            "tags": [
-                "Cardiology"
-            ]
-        }, 
-        {
-            "__type__": "Note", 
-            "data": "", 
-            "fields": [
-                "What is the recommended time frame in which a patient presenting with acute chest pain or suspected acute coronary syndrome should undergo an ECG?", 
-                "10 minutes", 
-                "National Heart Foundation of Australia &amp; Cardiac Society of Australia and New Zealand: Australian Clinical Guidelines for the Management of Acute Coronary Syndromes 2016"
-            ], 
-            "flags": 0, 
-            "guid": "zk:f):Lwzl", 
-            "note_model_uuid": "0aecb5c4-d637-11e7-8e91-408d5c5c9416", 
-            "tags": [
-                "Cardiology"
-            ]
-        }, 
-        {
-            "__type__": "Note", 
-            "data": "", 
-            "fields": [
-                "Name 7 contraindications to the use of nitrate therapy.", 
-                "<ul style=\"margin-left: 20px; \"><li>Allergy</li><li>Hypotension (&lt;90)</li><li>Bradycardia (&lt;50)</li><li>Tachycardia (&gt;100)</li><li>Phosphodiesterase inhibitor within the previous 24 hours</li><li>Hypertrophic cardiomyopathy</li><li>Severe aortic stenosis</li></ul>", 
-                "ACC/AHA Guidelines for the Management of Patients With ST-Elevation Myocardial Infarction"
-            ], 
-            "flags": 0, 
-            "guid": "iv0T$[op/3", 
-            "note_model_uuid": "0aecb5c4-d637-11e7-8e91-408d5c5c9416", 
-            "tags": [
-                "Cardiology"
-            ]
-        }, 
-        {
-            "__type__": "Note", 
-            "data": "", 
-            "fields": [
-                "Describe the mechanism of action of clopidogrel.", 
-                "The active metabolite of the thienopyridines (clopidogrel, prasugrel) irreversibly binds to the platelet P2Y<sub>12</sub>&nbsp;receptor and inhibits platelet aggregation for the life of the platelet.", 
-                "Australian Medicines Handbook"
-            ], 
-            "flags": 0, 
-            "guid": "qV]MexO7Dl", 
-            "note_model_uuid": "0aecb5c4-d637-11e7-8e91-408d5c5c9416", 
-            "tags": [
-                "Cardiology", 
-                "Pharmacology"
-            ]
-        }, 
-        {
-            "__type__": "Note", 
-            "data": "", 
-            "fields": [
-                "Describe the mechanism of action of ticagrelor.", 
-                "Ticagrelor, a nuceloside analogue,&nbsp;<b>reversibly</b> inhibits the adenosine diphosphate (ADP) receptor P2Y<sub>12</sub>. The thienopyridines (clopidogrel, prasugrel) irreversibly inhibit P2Y<sub>12</sub>.", 
-                ""
-            ], 
-            "flags": 0, 
-            "guid": "wf$J875j)7", 
-            "note_model_uuid": "0aecb5c4-d637-11e7-8e91-408d5c5c9416", 
-            "tags": [
-                "Cardiology", 
-                "Pharmacology"
-            ]
-        }, 
-        {
-            "__type__": "Note", 
-            "data": "", 
-            "fields": [
-                "The PLATO trial compared ticagrelor and clopidogrel in patients with acute coronary syndrome. What were the findings of this study?", 
-                "<ul><li>Compared to clopidogrel, ticagrelor significantly reduced the rate of cardiovascular death, myocardial infarction, or stroke</li><li>Benefit &nbsp;persisted up to 12 months</li><li>No increase in overall major bleeding</li></ul>", 
-                "https://www.ncbi.nlm.nih.gov/pubmed/19717846"
-            ], 
-            "flags": 0, 
-            "guid": "J/Y5?d9ATR", 
-            "note_model_uuid": "0aecb5c4-d637-11e7-8e91-408d5c5c9416", 
-            "tags": [
-                "Cardiology"
-            ]
-        }, 
-        {
-            "__type__": "Note", 
-            "data": "", 
-            "fields": [
-                "Name &nbsp;indications for coronary angiography in patients with stable ischaemic heart disease (SIHD).", 
-                "<ul style=\"margin-left: 20px; \"><li>Angina that significantly interferes with a patient's lifestyle despite maximal tolerable medical therapy</li><li>Patients with high-risk criteria (survivors of cardiac arrest</li></ul>", 
-                ""
-            ], 
-            "flags": 0, 
-            "guid": "ql~u/+/uOx", 
-            "note_model_uuid": "0aecb5c4-d637-11e7-8e91-408d5c5c9416", 
-            "tags": [
-                "Cardiology"
-            ]
-        }, 
-        {
-            "__type__": "Note", 
-            "data": "", 
-            "fields": [
-                "Name the preferred first line antianginal for patients with stable ischaemic heart disease (SIHD).", 
-                "ß-blocker", 
-                ""
-            ], 
-            "flags": 0, 
-            "guid": "s~}U_}vu6{", 
-            "note_model_uuid": "0aecb5c4-d637-11e7-8e91-408d5c5c9416", 
-            "tags": [
-                "Cardiology"
-            ]
-        }, 
-        {
-            "__type__": "Note", 
-            "data": "", 
-            "fields": [
-                "Name 3 factors which contribute to myocardial oxygen demand.", 
-                "<ul><li>Heart rate</li><li>Contractility</li><li>Left ventricular wall stress</li></ul>", 
-                ""
-            ], 
-            "flags": 0, 
-            "guid": "L]4|DkxOFh", 
-            "note_model_uuid": "0aecb5c4-d637-11e7-8e91-408d5c5c9416", 
-            "tags": [
-                "Cardiology", 
-                "Physiology"
-            ]
-        }, 
-        {
-            "__type__": "Note", 
-            "data": "", 
-            "fields": [
-                "Describe the mechanism by which sudden withdrawal of ß-blocker therapy may precipitate exacerbation of ischaemic symptoms, including myocardial infarction.", 
-                "Chronic use of ß-blocker therapy results in upregulation of adrenergic receptor density, and consequent increase in responsiveness to circulating catecholamines.", 
-                ""
-            ], 
-            "flags": 0, 
-            "guid": "Es2n>Rl*<`", 
-            "note_model_uuid": "0aecb5c4-d637-11e7-8e91-408d5c5c9416", 
-            "tags": [
-                "Cardiology", 
-                "Pharmacology"
-            ]
-        }, 
         {
             "__type__": "Note", 
             "data": "", 
@@ -789,6 +558,251 @@
             "tags": [
                 "Cardiology", 
                 "Pathophysiology"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Name 4 antianginal medications used in the management of stable angina.", 
+                "<ul><li>ß-blockers</li><li>Nitrates</li><li>Calcium channel blockers</li><li>Ranolazine</li></ul>", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "qz7,uLA)8e", 
+            "note_model_uuid": "0aecb5c4-d637-11e7-8e91-408d5c5c9416", 
+            "tags": [
+                "Cardiology"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "The COURAGE trial compared PCI + medical therapy vs. medical therapy alone as an initial management strategy in patients with stable ischaemic heart disease. What was the main conclusion of this trial?", 
+                "Although the addition of PCI to optimal medical therapy reduced the prevalence of angina, it did not reduce long-term rates of death, nonfatal myocardial infarction, and hospitalization for acute coronary syndromes.", 
+                "https://www.ncbi.nlm.nih.gov/pubmed/17387127"
+            ], 
+            "flags": 0, 
+            "guid": "s(&yGZmQc@", 
+            "note_model_uuid": "0aecb5c4-d637-11e7-8e91-408d5c5c9416", 
+            "tags": [
+                "Cardiology"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Name the only antianginal drug class proven to prevent reinfarction and to improve survival in patients who have sustained a myocardial infarction.", 
+                "ß-blockers", 
+                "https://www.ncbi.nlm.nih.gov/pubmed?term=8371471"
+            ], 
+            "flags": 0, 
+            "guid": "kDEax2q{$r", 
+            "note_model_uuid": "0aecb5c4-d637-11e7-8e91-408d5c5c9416", 
+            "tags": [
+                "Cardiology"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Name an appropriate first line investigation for suspected stable ischaemic heart disease.", 
+                "Cardiac stress testing", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "qqa`li!;E]", 
+            "note_model_uuid": "0aecb5c4-d637-11e7-8e91-408d5c5c9416", 
+            "tags": [
+                "Cardiology"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Describe the mechanism of action of aspirin.", 
+                "Irreversible inhibition of cyclooxygenase and thereby inhibiting the formation of eicosanoids (thromboxane A<sub>2</sub>) via the oxygenation of arachidonic acid.", 
+                "https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/215618"
+            ], 
+            "flags": 0, 
+            "guid": "BF>b>hG[t]", 
+            "note_model_uuid": "0aecb5c4-d637-11e7-8e91-408d5c5c9416", 
+            "tags": [
+                "Cardiology", 
+                "Pharmacology"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "The CURE trial tested the efficacy of prolonged aspirin + clopidogrel compared to aspirin alone in ACS without STEMI. What were the key findings?", 
+                "<ul><li>Dual antiplatelet therapy with clopidogrel and aspirin reduced cardiovascular mortality, non-fatal myocardial infarction or stroke</li><li>Superiority persisted throughout the 12 month study</li><li>Higher rates of major and minor bleeding, but no increase in life-threatening bleeding or intracranial haemorrhage</li></ul>", 
+                "https://www.ncbi.nlm.nih.gov/pubmed/11519503"
+            ], 
+            "flags": 0, 
+            "guid": "kTU/W:~zaZ", 
+            "note_model_uuid": "0aecb5c4-d637-11e7-8e91-408d5c5c9416", 
+            "tags": [
+                "Cardiology"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "What is the recommended time frame in which a patient presenting with acute chest pain or suspected acute coronary syndrome should undergo an ECG?", 
+                "10 minutes", 
+                "National Heart Foundation of Australia &amp; Cardiac Society of Australia and New Zealand: Australian Clinical Guidelines for the Management of Acute Coronary Syndromes 2016"
+            ], 
+            "flags": 0, 
+            "guid": "zk:f):Lwzl", 
+            "note_model_uuid": "0aecb5c4-d637-11e7-8e91-408d5c5c9416", 
+            "tags": [
+                "Cardiology"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Name 7 contraindications to the use of nitrate therapy.", 
+                "<ul style=\"margin-left: 20px; \"><li>Allergy</li><li>Hypotension (&lt;90)</li><li>Bradycardia (&lt;50)</li><li>Tachycardia (&gt;100)</li><li>Phosphodiesterase inhibitor within the previous 24 hours</li><li>Hypertrophic cardiomyopathy</li><li>Severe aortic stenosis</li></ul>", 
+                "ACC/AHA Guidelines for the Management of Patients With ST-Elevation Myocardial Infarction"
+            ], 
+            "flags": 0, 
+            "guid": "iv0T$[op/3", 
+            "note_model_uuid": "0aecb5c4-d637-11e7-8e91-408d5c5c9416", 
+            "tags": [
+                "Cardiology"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Describe the mechanism of action of clopidogrel.", 
+                "The active metabolite of the thienopyridines (clopidogrel, prasugrel) irreversibly binds to the platelet P2Y<sub>12</sub>&nbsp;receptor and inhibits platelet aggregation for the life of the platelet.", 
+                "Australian Medicines Handbook"
+            ], 
+            "flags": 0, 
+            "guid": "qV]MexO7Dl", 
+            "note_model_uuid": "0aecb5c4-d637-11e7-8e91-408d5c5c9416", 
+            "tags": [
+                "Cardiology", 
+                "Pharmacology"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Describe the mechanism of action of ticagrelor.", 
+                "Ticagrelor, a nuceloside analogue,&nbsp;<b>reversibly</b> inhibits the adenosine diphosphate (ADP) receptor P2Y<sub>12</sub>. The thienopyridines (clopidogrel, prasugrel) irreversibly inhibit P2Y<sub>12</sub>.", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "wf$J875j)7", 
+            "note_model_uuid": "0aecb5c4-d637-11e7-8e91-408d5c5c9416", 
+            "tags": [
+                "Cardiology", 
+                "Pharmacology"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "The PLATO trial compared ticagrelor and clopidogrel in patients with acute coronary syndrome. What were the findings of this study?", 
+                "<ul><li>Compared to clopidogrel, ticagrelor significantly reduced the rate of cardiovascular death, myocardial infarction, or stroke</li><li>Benefit &nbsp;persisted up to 12 months</li><li>No increase in overall major bleeding</li></ul>", 
+                "https://www.ncbi.nlm.nih.gov/pubmed/19717846"
+            ], 
+            "flags": 0, 
+            "guid": "J/Y5?d9ATR", 
+            "note_model_uuid": "0aecb5c4-d637-11e7-8e91-408d5c5c9416", 
+            "tags": [
+                "Cardiology"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Name &nbsp;indications for coronary angiography in patients with stable ischaemic heart disease (SIHD).", 
+                "<ul style=\"margin-left: 20px; \"><li>Angina that significantly interferes with a patient's lifestyle despite maximal tolerable medical therapy</li><li>Patients with high-risk criteria (survivors of cardiac arrest</li></ul>", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "ql~u/+/uOx", 
+            "note_model_uuid": "0aecb5c4-d637-11e7-8e91-408d5c5c9416", 
+            "tags": [
+                "Cardiology"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Name the preferred first line antianginal for patients with stable ischaemic heart disease (SIHD).", 
+                "ß-blocker", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "s~}U_}vu6{", 
+            "note_model_uuid": "0aecb5c4-d637-11e7-8e91-408d5c5c9416", 
+            "tags": [
+                "Cardiology"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Name 3 factors which contribute to myocardial oxygen demand.", 
+                "<ul><li>Heart rate</li><li>Contractility</li><li>Left ventricular wall stress</li></ul>", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "L]4|DkxOFh", 
+            "note_model_uuid": "0aecb5c4-d637-11e7-8e91-408d5c5c9416", 
+            "tags": [
+                "Cardiology", 
+                "Physiology"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Describe the mechanism by which sudden withdrawal of ß-blocker therapy may precipitate exacerbation of ischaemic symptoms, including myocardial infarction.", 
+                "Chronic use of ß-blocker therapy results in upregulation of adrenergic receptor density, and consequent increase in responsiveness to circulating catecholamines.", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "Es2n>Rl*<`", 
+            "note_model_uuid": "0aecb5c4-d637-11e7-8e91-408d5c5c9416", 
+            "tags": [
+                "Cardiology", 
+                "Pharmacology"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "suki desu ka?", 
+                "Hai, suki desu!", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "q;nkLn[g3L", 
+            "note_model_uuid": "0aecb5c4-d637-11e7-8e91-408d5c5c9416", 
+            "tags": [
+                "Cardiology"
             ]
         }
     ]
