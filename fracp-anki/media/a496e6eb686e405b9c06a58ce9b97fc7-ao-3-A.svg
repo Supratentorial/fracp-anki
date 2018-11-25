@@ -1,0 +1,25 @@
+<svg height="327" width="759" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Image Occlusion Enhanced -->
+ <g>
+  <title>Labels</title>
+ </g>
+ <g>
+  <title>Masks</title>
+  <rect fill="#FFEBA2" height="19" id="a496e6eb686e405b9c06a58ce9b97fc7-ao-1" stroke="#2D2D2D" width="529" x="204" y="106">
+   <animate attributeName="opacity" begin="indefinite" dur="0.2" fill="freeze" to="1"/>
+  </rect>
+  <rect fill="#FFEBA2" height="34" id="a496e6eb686e405b9c06a58ce9b97fc7-ao-2" stroke="#2D2D2D" width="529" x="207" y="132">
+   <animate attributeName="opacity" begin="indefinite" dur="0.2" fill="freeze" to="1"/>
+  </rect>
+  
+  <rect fill="#FFEBA2" height="14" id="a496e6eb686e405b9c06a58ce9b97fc7-ao-4" stroke="#2D2D2D" width="529" x="209" y="245">
+   <animate attributeName="opacity" begin="indefinite" dur="0.2" fill="freeze" to="1"/>
+  </rect>
+  <rect fill="#FFEBA2" height="13" id="a496e6eb686e405b9c06a58ce9b97fc7-ao-5" stroke="#2D2D2D" width="532" x="208" y="270">
+   <animate attributeName="opacity" begin="indefinite" dur="0.2" fill="freeze" to="1"/>
+  </rect>
+  <rect fill="#FFEBA2" height="16" id="a496e6eb686e405b9c06a58ce9b97fc7-ao-6" stroke="#2D2D2D" width="535" x="206" y="295">
+   <animate attributeName="opacity" begin="indefinite" dur="0.2" fill="freeze" to="1"/>
+  </rect>
+ </g>
+</svg>

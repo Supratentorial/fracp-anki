@@ -1,0 +1,12 @@
+<svg height="459" width="325" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Image Occlusion Enhanced -->
+ <g>
+  <title>Labels</title>
+ </g>
+ <g>
+  <title>Masks</title>
+  <rect class="qshape" fill="#FF7E7E" height="73" id="ac59cf41443149e2aa5b4ba1619097b3-ao-1" stroke="#2D2D2D" width="290" x="14.5" y="18">
+   <animate attributeName="opacity" begin="indefinite" class="qshape" dur="0.2" fill="#FF7E7E" to="1"/>
+  </rect>
+ </g>
+</svg>
